@@ -27,3 +27,15 @@
     color: darkblue;
     background-color: aliceblue;
 }
+
+.recipe_bkg .instruct {
+    background-color: beige;
+}
+
+.recipe_bkg .ingredients {
+    background-color: beige;
+}
+
+.recipe_bkg .steps {
+    background-color: beige;
+}
